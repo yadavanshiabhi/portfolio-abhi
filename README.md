@@ -1,2 +1,3 @@
 # portfolio-abhi
-This is my portfolio containg my learning.
+This is my portfolio containing my learning.
+Author- Abhishek Yadav
